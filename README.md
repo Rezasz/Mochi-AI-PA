@@ -1,11 +1,18 @@
+# Mochi AI PA
+
+> **This is a personal hobby fork of [Plane](https://plane.so) by [Plane Software, Inc.](https://plane.so), rebranded as "Mochi" for personal use.**
+> Licensed under AGPL-3.0 — original work © Plane Software, Inc. and contributors. This fork is not affiliated with, endorsed by, or supported by Plane Software, Inc. See [`LICENSE.txt`](./LICENSE.txt) and [`COPYRIGHT.txt`](./COPYRIGHT.txt) for details.
+
+---
+
 <br /><br />
 
 <p align="center">
 <a href="https://plane.so">
-  <img src="https://media.docs.plane.so/logo/plane_github_readme.png" alt="Plane Logo" width="400">
+  <img src="https://media.docs.plane.so/logo/plane_github_readme.png" alt="Plane Logo (upstream)" width="400">
 </a>
 </p>
-<p align="center"><b>Modern project management for all teams</b></p>
+<p align="center"><b>Modern project management for all teams — rebranded as Mochi in this fork</b></p>
 
 <p align="center">
     <a href="https://plane.so/"><b>Website</b></a> •
