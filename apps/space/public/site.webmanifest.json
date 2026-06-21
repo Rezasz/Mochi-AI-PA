@@ -1,7 +1,7 @@
 {
-  "name": "Plane Space",
-  "short_name": "Plane Space",
-  "description": "Plane helps you plan your work items, cycles, and product modules.",
+  "name": "Mochi Space",
+  "short_name": "Mochi Space",
+  "description": "Mochi helps you plan your work items, cycles, and product modules.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f9fafb",

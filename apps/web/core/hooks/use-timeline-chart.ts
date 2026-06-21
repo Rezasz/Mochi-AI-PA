@@ -9,7 +9,7 @@ import { useContext } from "react";
 import type { TTimelineType } from "@plane/types";
 // lib
 import { StoreContext } from "@/lib/store-context";
-// Plane-web
+// Mochi-web
 import { getTimelineStore } from "@/plane-web/hooks/use-timeline-chart";
 import type { IBaseTimelineStore } from "@/plane-web/store/timeline/base-timeline.store";
 import { useTimeLineType } from "../components/gantt-chart/contexts";

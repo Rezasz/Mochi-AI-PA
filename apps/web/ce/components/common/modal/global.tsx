@@ -18,7 +18,7 @@ type TGlobalModalsProps = {
 };
 
 /**
- * GlobalModals component manages all workspace-level modals across Plane applications.
+ * GlobalModals component manages all workspace-level modals across Mochi applications.
  *
  * This includes:
  * - Profile settings modal
