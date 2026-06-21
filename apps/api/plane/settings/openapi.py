@@ -12,16 +12,15 @@ SPECTACULAR_SETTINGS = {
     # ========================================================================
     # Basic API Information
     # ========================================================================
-    "TITLE": "The Plane REST API",
+    "TITLE": "The Mochi REST API",
     "DESCRIPTION": (
-        "The Plane REST API\n\n"
-        "Visit our quick start guide and full API documentation at "
-        "[developers.plane.so](https://developers.plane.so/api-reference/introduction)."
+        "The Mochi REST API (a personal fork of Plane).\n\n"
+        "Schema and endpoints are compatible with Plane's upstream API; see "
+        "[developers.plane.so](https://developers.plane.so/api-reference/introduction) for reference."
     ),
     "CONTACT": {
-        "name": "Plane",
-        "url": "https://plane.so",
-        "email": "support@plane.so",
+        "name": "Mochi AI PA",
+        "url": "https://github.com/Rezasz/Mochi-AI-PA",
     },
     "VERSION": "0.0.1",
     "LICENSE": {
